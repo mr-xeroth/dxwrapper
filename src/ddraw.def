@@ -1,0 +1,14 @@
+LIBRARY ddraw.dll
+EXPORTS
+    AcquireDDThreadLock
+    DirectDrawCreate
+    DirectDrawCreateEx
+    DirectDrawEnumerateA
+    DirectDrawEnumerateExA
+    DirectDrawEnumerateExW
+    DirectDrawEnumerateW
+    DllCanUnloadNow
+    DllGetClassObject
+    DllRegisterServer
+    DllUnregisterServer
+    ReleaseDDThreadLock

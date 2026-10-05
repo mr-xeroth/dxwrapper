@@ -1,0 +1,6 @@
+window_size = default
+aspect_ratio = true
+resizable = true
+vsync = true
+filter = opengl
+mouse_capture = seamless
